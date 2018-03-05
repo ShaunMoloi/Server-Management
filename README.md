@@ -1,9 +1,7 @@
 # Instructions 
 
-Containers are a powerful tool for data scientists because they allow you to standardise your environments and easily share experiments with fellow data scientist while ensuring that the dependencies are consistent.
 
-The following exercise will test your ability to learn new technologies and tools. 
-You are not expected to finish everything, but it is highly encouraged. 
+
 
 This should help you get started: 
 * https://training.docker.com/course/developer---beginner-linux-containers
@@ -50,12 +48,11 @@ From your terminal run: docker -it -p 9000:9000 <tag of your image>
 Access jupyter from your local machine. (Hint: use chrome) 
 Run the spark_notebook in jupyter
 
-PART 3: (Bonus)
-Do whatever you want. Show off.
+PART 3: 
+
 Some ideas:
 * Get hadoop + spark working
-* In the spirit of sharing work through containers. Build a container that is able to run a side / university project you've done. 
-* ASCII image print out
+*
 
 
-Finally: Zip the Dockerfile(s) and all relevant files and then send it to us with the docker build and docker run commands that we should run
+
