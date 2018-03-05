@@ -52,7 +52,6 @@ PART 3:
 
 Some ideas:
 * Get hadoop + spark working
-*
 
 
 
